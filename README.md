@@ -5,7 +5,7 @@
 
 Things about me
 
-- 🔭 I’m currently working on An Attandance Analytics application...
+- 🔭 I’m currently working on An Attendance Analytics application...
 - 🌱 I’m currently learning Micro Services using Node.js
 - 💬 Ask me about on Technology,Movies.
 - 📫 How to reach me :<br> <br>
