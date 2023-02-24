@@ -7,7 +7,7 @@
 
 
 
-- 💬 Ask me about on Technology,Movies.
+- 💬 Ask me about on Tech and Business.
 - 📫 How to reach me :<br> <br>
        <a href="https://www.linkedin.com/in/sisan-kumar-sahu-95b387142/"><img src="https://img.icons8.com/color/50/000000/linkedin.png"></a>
 
